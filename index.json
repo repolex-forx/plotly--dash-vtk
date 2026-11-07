@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-vtk",
+  "versions": [
+    {
+      "commit": "32195915653a7fd9930faec6a029fe6636cc64c2",
+      "tag": "",
+      "parsed_at": "2026-11-07T09:13:56.238885+00:00"
+    }
+  ]
+}
